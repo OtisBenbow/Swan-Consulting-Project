@@ -6,4 +6,5 @@ These deliverables included: <br>
 - A Python notebook that includes all the relevant exploratory data analysis, feature engineering, train-test splitting, modelling and model evaluation in order to predict customer churn risk.
 - A list of the top 500 most likely to churn customers.
 - A list of the churn risk of all remaining customers in the dataset.
+
 The data contained several columns of discrete data (eg. Gender: Male/Female, Dependents: Yes/No, Internet Service: Fiber Optic/DSL/No, etc.) allowing for the creation of logistic regressions, decision trees, random forests, and yggdrasil decision forests which were exploring in python.
